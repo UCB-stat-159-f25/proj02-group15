@@ -1,0 +1,28 @@
+# Ignore Python cache and system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore Jupyter checkpoint folders
+.ipynb_checkpoints/
+
+# Ignore MyST build directory
+_build/
+build/
+
+# Ignore HTML build artifacts (for GitHub Pages)
+config.json
+myst.search.json
+myst.xref.json
+objects.inv
+service-worker.js
+*.json
+*.ipynb.json
+
+# Ignore any local runtime junk
+.env
+*.log
+
+# Ignore large model files (if ever created)
+*.bin
+*.pkl
