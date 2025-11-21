@@ -1,0 +1,27 @@
+version: 1
+
+project:
+  id: 769b7f2a-34fc-4a81-af18-90e90ef456b5
+  title: "Project 2: Reproducibility in NLP"
+  github: https://github.com/UCB-stat-159-f25/proj02-group15
+
+site:
+  template: book-theme
+  nav:
+    - title: "Home"
+      url: README.md
+
+    - title: "Contribution Statement"
+      url: contribution_statement.md
+
+    - title: "Part 1"
+      url: nlp-P01.ipynb
+
+    - title: "Part 2"
+      url: nlp-P02.ipynb
+
+    - title: "Assignment Description"
+      url: project-description.md
+
+
+
