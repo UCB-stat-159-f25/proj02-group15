@@ -1,1 +1,1 @@
-
+used for formatting the output decimals to look pretty. - Logan
