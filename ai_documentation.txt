@@ -1,1 +1,4 @@
 used for formatting the output decimals to look pretty. - Logan
+
+Part 2:
+Used for graphical assistance and code syntax - Paul
