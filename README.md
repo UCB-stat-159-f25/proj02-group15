@@ -1,4 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/proj02-group15.git/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FUCB-stat-159-f25%2Fproj02-group15.git)
+[![binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/UCB-stat-159-f25/proj02-group15/HEAD
+)
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7TPcE591)
 # Project 2 Reproducibility in NLP
